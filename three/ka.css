@@ -1,0 +1,33 @@
+table{
+    background-color: #5c3550;
+    color: wheat;
+    margin: 7rem auto;
+    text-align: center;
+}
+input{
+    background-color: #FFA17F;
+    width: 100px;
+    text-align: center;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+body{
+    background-color: #00223E;
+}
+.end{
+    background-color: #4BC0C8;
+    color: black;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media (max-width:911px) {
+    
+}
+@media (max-width:625px) {
+
+}
